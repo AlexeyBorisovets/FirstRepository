@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    height: 25%;
+    background-color: black;
+
+}
+.midle{
+    width: 100%;
+    height: 50%;
+    background-color:orange;
+    text-align: center;
+    
+}
+.end{
+    width:100%;
+    height: 25%;
+    background-color: black;
+}
+.text{
+    margin: -50px;
+}
